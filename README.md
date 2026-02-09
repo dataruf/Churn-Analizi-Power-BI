@@ -65,7 +65,9 @@ Layihədə istifadə olunan əsas DAX funksiyaları:
 ## 📈 Visualization
 
 Power BI faylını yükləmədən vizuallaşdırmaya baxmaq üçün GitHub-da **PNG formatında** paylaşılmışdır.
-![Uploading Churn analizi yekun vizual.png…]()
+
+<img width="1122" height="628" alt="Churn analizi yekun vizual" src="https://github.com/user-attachments/assets/2643b60a-b34a-45ce-8848-b43dd8fd7af4" />
+
 Vizual hissədə:
 - **Region → Bölgə Müdiri → Satış Təmsilçisi** iyerarxiyası qurulub
 - **Drill Up / Drill Down** funksionallığı istifadə edilib
