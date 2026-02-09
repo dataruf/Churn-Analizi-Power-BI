@@ -1,5 +1,4 @@
 <img width="1495" height="493" alt="basliq" src="https://github.com/user-attachments/assets/e4226fdd-3afa-42ae-a4eb-db62ebde02f3" />
-<img width="1495" height="493" alt="basliq" src="https://github.com/user-attachments/assets/e4226fdd-3afa-42ae-a4eb-db62ebde02f3" />
 Bu proyektdə Power BI və daxilindəki Power Query istifadəsi ilə Churn analizini aparmışam.
 Churn analizinin aparılma məqsədi bizi tərk edən müştəriləri tanımaq həmçinin CRM və uyğun satış datalarının köməyi ilə onların tərk etmə səbəblərini müəyyənləşdirmək, biznesin mənfəətini atrtırmaqdır.
 Necə deyərlər yeni müştəri qazanmaq daha çox xərc tələb edir nəinki mövcud müştərini əldə tutmaq.
